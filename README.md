@@ -13,7 +13,7 @@
   
 </div>
 
-<h3 align="center">Estudando Front-end, Back-end e JavaScript</h3>
+<h3 align="center">Desenvolvedor Front-end </h3>
                                          
 <h1 align="center"
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-rodrigues-fernandes-929a39aa/)
