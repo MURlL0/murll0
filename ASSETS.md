@@ -10,3 +10,5 @@ Supabase: https://supabase.com/brand-assets/supabase-icon-green-transparent.svg.
 HTML, CSS, Sass, JavaScript, React e Git: imagens da pasta assets/ do portfólio original de Murilo.
 
 As prévias de God of War e Finances App vêm das imagens dos próprios projetos já presentes no portfólio.
+
+- LinkedIn: `InBug-White.png`, incorporado sem alterações no botão `assets/linkedin.svg`, obtido no kit oficial https://brand.linkedin.com/downloads.
